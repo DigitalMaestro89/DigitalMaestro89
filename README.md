@@ -1,12 +1,12 @@
 
-### <div align="center">I'm Ardiv, a full-stack engineer</div>  
-### <div align="center"> 👨‍💻 Shooting for the stars, aiming for the moon 🚀</div>  
+### <div align="center">I'm Ardiv, a full-stack developer</div>  
+### <div align="center"> 👨‍💻 An arrow fired at the moon flies farther. 🚀</div>  
   
 
 - 🔭 I’m currently working on building the Flutter and AI projects
   
 
-- 🌱 I’m currently learning AWS and Azure full stack development  
+- 🌱 I’m currently learning mobile development.  
   
 
 - ❓ Ask me about anything related to **MERN Stack** technologies  
