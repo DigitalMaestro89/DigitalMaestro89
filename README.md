@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://i.imgur.com/OGNObR5.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Ardiv, a full-stack engineer</div>  
 ### <div align="center"> 👨‍💻 Shooting for the stars, aiming for the moon 🚀</div>  
