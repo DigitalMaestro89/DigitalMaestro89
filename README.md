@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Ardiv, a full-stack developer</div>  
+### <h1 align="center">👋 Hi, I'm Ardiv, a Full stack developer</h1> 
 ### <div align="center"> 👨‍💻 An arrow fired at the moon flies farther. 🚀</div>  
   
 
