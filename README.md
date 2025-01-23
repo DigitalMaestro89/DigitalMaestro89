@@ -1,6 +1,5 @@
 <h1 align="center">🙋‍♂️ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵 ❤️</h1>
-<br>
-
+<img src="space-logo.svg" />
 <h3> 💼 My experience </h3>
 <p align="left">
   💻 Building Web application with modern JavaScript frameworks such as React, Vue, and Angular.
