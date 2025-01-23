@@ -54,8 +54,8 @@
 
 
 <h3> 🌟 My hobbies and interests </h3>
-🎧 **Music**  
-⚽ **Sports**  
-🌍 **Learning foreign languages**  
+🎧 **Listening Music**<br>  
+⚽ **Sports**  <br>  
+🌍 **Learning foreign languages**  <br>  
 <hr>
 <h3 align="center">❤️Thanks for visiting my profile❤️</h3>
