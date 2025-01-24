@@ -5,7 +5,7 @@
 <p align="left">
   💻 Building Web application with modern JavaScript frameworks such as React, Vue, and Angular.
   <br>
-  📱 Building Mobile application with Native Android, React Native, Flutter.
+  &nbsp;📱 Building Mobile application with Native Android, React Native, Flutter.
   <br>
   🛠 Implementing automate testing with Jest and Selenium.
   <br>
